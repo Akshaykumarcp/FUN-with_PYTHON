@@ -1,0 +1,23 @@
+2022-02-15 16:58:16,546 Numbers are 4 and 2
+2022-02-15 16:58:16,546 Method completed!!
+2022-02-15 16:58:16,548 Numbers are 4 and 0
+2022-02-15 16:58:16,548 Error occured!!
+2022-02-15 16:58:16,548 Exception occured : division by zero
+Traceback (most recent call last):
+  File "<stdin>", line 4, in divideNum
+ZeroDivisionError: division by zero
+2022-02-15 16:58:34,555 This is an info message
+2022-02-15 16:58:34,571 This is a warning message
+2022-02-15 16:58:34,587 This is an error message
+2022-02-15 16:58:34,603 This is a critical message
+2022-02-15 17:00:44,614 Exception occurred
+Traceback (most recent call last):
+  File "<stdin>", line 2, in <module>
+FileNotFoundError: [Errno 2] No such file or directory: 'file.csv'
+2022-02-15 17:01:00,992 Example started without using exc_info
+2022-02-15 17:01:01,042 Exception occurred
+2022-02-15 17:03:17,168 Logging to the root logger.
+2022-02-15 17:03:43,413 Logging to the root logger.
+2022-02-15 17:03:43,506 iNeuron is providing tremendous courses in different domains.
+2022-02-15 17:03:43,699 This is a warning message.
+2022-02-15 17:03:43,753 This is an error message.
