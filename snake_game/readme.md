@@ -1,5 +1,10 @@
 ### How to run ?
 - Run "main.py" python file.
 
-### Gameplay
+### Preview Gameplay
+![](https://github.com/Akshaykumarcp/python/blob/main/snake_game/game_over.gif)
+
+### Full Gameplay
+- [Click here](https://youtu.be/KwxoDrfzIq4)
+
 
