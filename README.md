@@ -5,4 +5,4 @@ Python for data science
 
 ### Python REPL
 - Default Python REPL
-- PTPYTHON
+- PTPYTHON (https://github.com/prompt-toolkit/ptpython)
