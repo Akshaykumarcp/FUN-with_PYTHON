@@ -57,3 +57,7 @@ Common pitfalls with using asserts:
 - Single Underscore: _
   - Used as a name to indicate that a variable is temporary or insignificant.
   - Use single underscores in unpacking expressions as a “don’t care” variable to ignore particular values.
+
+### Python tools for dev
+
+- Code format: [Black](https://github.com/psf/black)
