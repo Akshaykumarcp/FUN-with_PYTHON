@@ -61,3 +61,6 @@ Common pitfalls with using asserts:
 ### Python tools for dev
 
 - Code format: [Black](https://github.com/psf/black)
+- Code lint and formatter: [ruff](https://github.com/astral-sh/ruff)
+- Python packaging: [Python packaging](https://packaging.python.org/en/latest/overview/)
+- Lint (Style and quality): [flake8](https://github.com/PyCQA/flake8)
