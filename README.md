@@ -1,5 +1,4 @@
-![image](https://github.com/Akshaykumarcp/python/assets/16430258/69b474bc-405b-47b3-80a8-f280100290ee)# FUN-with_PYTHON
-Python for data science
+### Python for data science
 
 ![alt text](https://github.com/Akshaykumarcp/FUN-with_PYTHON/blob/main/mind_mapping_python.jpg)
 
