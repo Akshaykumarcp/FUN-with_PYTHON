@@ -1,4 +1,4 @@
-# FUN-with_PYTHON
+![image](https://github.com/Akshaykumarcp/python/assets/16430258/69b474bc-405b-47b3-80a8-f280100290ee)# FUN-with_PYTHON
 Python for data science
 
 ![alt text](https://github.com/Akshaykumarcp/FUN-with_PYTHON/blob/main/mind_mapping_python.jpg)
@@ -63,7 +63,18 @@ Common pitfalls with using asserts:
 - Code format: [Black](https://github.com/psf/black)
 - Code lint and formatter: [ruff](https://github.com/astral-sh/ruff)
 - Python packaging:
+  - PEP:
+    - https://peps.python.org/pep-0517/
+    - https://peps.python.org/pep-0518/
   - [Python packaging](https://packaging.python.org/en/latest/overview/)
+  - Build tools:
+    - [flit](https://flit.pypa.io/en/latest/)
+    - [hatch](https://hatch.pypa.io/latest/)
+    - [pdm](https://pdm-project.org/en/latest/)
+    - [poetry](https://python-poetry.org/)
+    - [setuptools](https://setuptools.pypa.io/en/latest/)
+    - [trampolim](https://pypi.org/project/trampolim/)
+    - [whey](https://pypi.org/project/whey/)
   - [TOML](https://toml.io/en/)
     - Libs: [tomllib](https://docs.python.org/3/library/tomllib.html), [tomlkit](https://github.com/python-poetry/tomlkit), [tomli](https://github.com/hukkin/tomli), [all other](https://github.com/toml-lang/toml/wiki)
 - Lint (Style and quality): [flake8](https://github.com/PyCQA/flake8)
