@@ -62,5 +62,8 @@ Common pitfalls with using asserts:
 
 - Code format: [Black](https://github.com/psf/black)
 - Code lint and formatter: [ruff](https://github.com/astral-sh/ruff)
-- Python packaging: [Python packaging](https://packaging.python.org/en/latest/overview/)
+- Python packaging:
+  - [Python packaging](https://packaging.python.org/en/latest/overview/)
+  - [TOML](https://toml.io/en/)
+    - Libs: [tomllib](https://docs.python.org/3/library/tomllib.html), [tomlkit](https://github.com/python-poetry/tomlkit), [tomli](https://github.com/hukkin/tomli), [all other](https://github.com/toml-lang/toml/wiki)
 - Lint (Style and quality): [flake8](https://github.com/PyCQA/flake8)
